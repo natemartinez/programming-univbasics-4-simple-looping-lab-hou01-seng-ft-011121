@@ -21,7 +21,7 @@ end
 def output_array(array)
   counter=0
   array = ["Be yourself;","everyone else is already taken", "- Oscar Wilde"]
-  while array([counter]) do
+  while array[counter]do
     
     puts array[counter]
     counter+=1
