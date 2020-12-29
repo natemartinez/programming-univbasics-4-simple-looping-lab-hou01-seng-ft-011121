@@ -25,6 +25,6 @@ def output_array(array)
     
     puts array[counter]
     counter+=1
-    output_array_elements
+  
 end
 end
